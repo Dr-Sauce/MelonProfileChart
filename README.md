@@ -8,7 +8,7 @@
 |          | URL                                                                             |
 |----------|---------------------------------------------------------------------------------|
 | **Spotify**  | [Listen on Spotify](https://open.spotify.com/playlist/627NPPswPEFjI8xe5Y48D6)   |
-| ~~**YT Music**~~ | ~~[🚧🔨](https://music.youtube.com/playlist?list=PLzm012GOhOnUPEaMac-j6C24ItL43rmJX)~~ |
+| **YT Music** | Unavailable |
 
 # Source:
 - [Melon API](https://kkosvc.melon.com/mwk/chart/profile.json) - Profile Music Chart data
