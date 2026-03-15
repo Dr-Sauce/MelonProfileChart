@@ -1,5 +1,7 @@
 # Melon Profile Chart Top. 100
-일간 기준(0시~24시) 프로필 뮤직으로 많이 선택된 곡의 순위이며, 매일 13시경 업데이트됩니다.
+~~일간 기준(0시~24시) 프로필 뮤직으로 많이 선택된 곡의 순위이며, 매일 13시경 업데이트됩니다.~~
+
+3월 10일 부로 스포티파이 API 정책 변경으로 인해, 더 이상 업데이트되지 않습니다.
 
 <img width="130" alt="1200x630bb" src="https://github.com/user-attachments/assets/af769964-9b8b-4abc-8fac-14b72a20dc95" />
 
